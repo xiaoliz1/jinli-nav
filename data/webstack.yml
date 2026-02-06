@@ -188,6 +188,10 @@
         - title: one_click_script
           logo: github.png
           url: https://github.com/jinwyp/one_click_script/blob/master/README2_CN.md
+          description:   
+        - title: trojan
+          logo: github.png
+          url: https://github.com/Jrohy/trojan
           description:                      
     - term: 软件  
       links:    
