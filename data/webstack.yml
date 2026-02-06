@@ -84,10 +84,10 @@
           logo: 腾讯云.webp
           url: https://cloud.tencent.com/
           description: 产业智变，云启未来。
-        - title: 华为云
-          logo: 华为云.png
-          url: https://www.huaweicloud.com/
-          description: 提供云计算服务+智能，见未来-华为云。 
+        - title: 搬瓦工、DMIT所有产品
+          logo: dmitea.svg
+          url: https://matrix.dmitea.com/
+          description: 搬瓦工、DMIT所有产品矩阵 
     - term: Docker应用
       links:
         - title: Openlist.svg
