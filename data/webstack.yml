@@ -146,7 +146,13 @@
         - title: PTTime
           logo: PTTime.ico
           url: https://www.pttime.org/index.php
-          description:   
+          description:  
+    - term: 教程
+      links:
+        - title: 刷OpenWrt教程
+          logo: openwrt.png
+          url: https://openwrt.ai/%e7%ba%a2%e7%b1%b3ax6s-%e8%a7%a3%e9%94%81ssh-%e5%88%b7openwrt%e6%95%99%e7%a8%8b/
+          description: 红米ax6s 解锁SSH ,刷OpenWrt教程
     - term: 博客
       links:
         - title: semyes
