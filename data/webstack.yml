@@ -88,6 +88,10 @@
           logo: dmitea.svg
           url: https://matrix.dmitea.com/
           description: 搬瓦工、DMIT所有产品矩阵 
+        - title: VPS 测评
+          logo: digvps.png
+          url: https://digvps.com/
+          description: VPS 测评 
     - term: Docker应用
       links:
         - title: Openlist.svg
