@@ -55,6 +55,10 @@
           logo: github.png
           url: https://github.com/
           description: 
+        - title: 小黑盒
+          logo: xiaoheihe.png
+          url: https://www.xiaoheihe.cn/creator/editor/draft/image_text
+          description: 小黑盒
 - taxonomy: 在线工具
   icon: fas fa-tools fa-lg
   list:                            
