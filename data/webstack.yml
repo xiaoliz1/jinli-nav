@@ -136,7 +136,11 @@
         - title: faviconextractor
           logo: faviconextractor.ico
           url: https://www.faviconextractor.com/
-          description: 网站图标下载                
+          description: 网站图标下载 
+        - title: 小米路由器sn解锁
+          logo: miwifi.ico
+          url: https://www.faviconextractor.com/
+          description: 小米路由器sn解锁                        
     - term: PT下载
       links:
         - title: M-Team
