@@ -151,6 +151,10 @@
           logo: PTTime.ico
           url: https://www.pttime.org/index.php
           description:  
+        - title: 蜜柑计划
+          logo: mikanime.ico
+          url: https://www.pttime.org/index.php
+          description: 蜜柑计划 - Mikan Project   
     - term: 教程
       links:
         - title: 刷OpenWrt教程
