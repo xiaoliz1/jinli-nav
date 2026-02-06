@@ -64,6 +64,10 @@
           logo: BandwagonHost.jpg
           url: https://bwh81.net/clientarea.php
           description:
+        - title: DMIT
+          logo: dmit.ico
+          url: https://www.dmit.io/
+          description: 大妈 
         - title: RackNerd
           logo: racknerd.jpg
           url: https://www.racknerd.com/
