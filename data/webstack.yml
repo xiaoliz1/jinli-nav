@@ -56,6 +56,10 @@
           logo: NodeSeek.png
           url: https://www.nodeseek.com/
           description: 
+        - title: v2ex
+          logo: v2ex.png
+          url: https://www.v2ex.com/
+          description:  
         - title: 小黑盒
           logo: 小黑盒.png
           url: https://www.xiaoheihe.cn/app/bbs/home
