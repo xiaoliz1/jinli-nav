@@ -31,6 +31,11 @@
       logo: bitwarden.png
       url: https://bitwarden.996521.xyz/
       description: bitwarden密码管理
+          description: ytb-dl
+    - title: CloudFlare-ImgBed图床
+      logo: img.png
+      url: https://img.996521.xyz/
+      description: bitwarden密码管理
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
