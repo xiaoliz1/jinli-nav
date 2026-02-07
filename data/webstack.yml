@@ -19,9 +19,14 @@
       logo: emby.png
       url: http://192.168.2.235:8096
       description:           
-
-
-
+    - title: Openlist多网盘统一管理
+      logo: openlist.svg
+      url: https://openlist.996521.xyz/
+      description: 多网盘统一管理   
+    - title: YouTube 视频下载器
+      logo: ytb.svg
+      url: https://ytb.996521.xyz/
+      description: ytb-dl
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
@@ -95,13 +100,7 @@
         - title: VPS 测评
           logo: digvps.png
           url: https://digvps.com/
-          description: VPS 测评 
-    - term: Docker应用
-      links:
-        - title: Openlist.svg
-          logo: openlist.svg
-          url: https://openlist.996521.xyz/
-          description:                  
+          description: VPS 测评              
     - term: 在线工具
       links:
         - title: Wallos-服务器订阅
