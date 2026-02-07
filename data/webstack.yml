@@ -27,6 +27,10 @@
       logo: ytb.svg
       url: https://ytb.996521.xyz/
       description: ytb-dl
+    - title: bitwarden密码管理
+      logo: bitwarden.png
+      url: https://bitwarden.996521.xyz/
+      description: bitwarden密码管理
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
