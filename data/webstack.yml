@@ -35,6 +35,11 @@
       logo: img.png
       url: https://img.996521.xyz/
       description: 图床
+    - title: 订阅转换
+      logo: sublink-worker.svg
+      url: https://img.996521.xyz/
+      description: 订阅转换
+
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
