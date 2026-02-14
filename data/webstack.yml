@@ -97,10 +97,14 @@
         - title: RackNerd
           logo: racknerd.jpg
           url: https://www.racknerd.com/
-          description:                     
-        - title: wap.cc
+          description:      
+          - title: wap.cc
           logo: wap.ico
           url: https://wap.ac/
+          description:                  
+        - title: 学长网络
+          logo: xuezhang.ico
+          url: https://xuezhangvps.shop/clientarea.php?action=services
           description:                       
         - title: 阿里云
           logo: 阿里云.jpg
@@ -132,7 +136,10 @@
           logo: github.png
           url: https://3xu.xxxui.dpdns.org/uuyIa38Pg0dILwsQcd/panel/
           description: 11月5日到期          
-
+        - title: 加拿大家宽
+          logo: github.png
+          url: http://ca238bellbm.vgrapi.xyz:51443/BPddmbdgRVtwbUWQjf/panel/inbounds
+          description: 每月12日续费  
         - title: Cloudflare
           logo: cloudflare.png
           url: https://dash.cloudflare.com/
@@ -164,7 +171,15 @@
         - title: 小米路由器sn解锁
           logo: miwifi.ico
           url: https://www.faviconextractor.com/
-          description: 小米路由器sn解锁                        
+          description: 小米路由器sn解锁   
+        - title: windows系统
+          logo: favicon-hellowindows.cn
+          url: https://hellowindows.cn/
+          description: windows系统下载 
+        - title: 取文件
+          logo: favicon-www.google.com.png
+          url: https://www.quwenjian.com/home
+          description: 文件传递                      
     - term: PT下载
       links:
         - title: M-Team
