@@ -26,6 +26,8 @@
 6.保存部署    
 完成
 推送
-git add -A
-git commit -m "a11"
-git push --force origin main
+```git config --global core.autocrlf false ```
+```git add -A ```
+```git commit -m "a1" ```
+```git push --force origin main ```
+

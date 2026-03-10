@@ -105,7 +105,11 @@
           - title: wap.cc
           logo: wap.ico
           url: https://wap.ac/
-          description:                  
+          description:
+          - title: wap.cc
+          logo: favicon-qq.pw.svg
+          url: https://qq.pw/clientarea.php
+          description:  夏威夷家宽                  
         - title: 学长网络
           logo: xuezhang.ico
           url: https://xuezhangvps.shop/clientarea.php?action=services
@@ -140,10 +144,10 @@
           logo: github.png
           url: https://3xu.xxxui.dpdns.org/uuyIa38Pg0dILwsQcd/panel/
           description: 11月5日到期          
-        - title: 加拿大家宽
+        - title: 美国家宽
           logo: github.png
-          url: http://ca238bellbm.vgrapi.xyz:51443/BPddmbdgRVtwbUWQjf/panel/inbounds
-          description: 每月12日续费  
+          url: http://nat.qq.pw:21242/Tz3YXB4142gdY8fqqz/xui/inbounds
+          description: 每月11日续费  
         - title: Cloudflare
           logo: cloudflare.png
           url: https://dash.cloudflare.com/
