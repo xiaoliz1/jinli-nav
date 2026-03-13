@@ -216,6 +216,10 @@
           logo: openwrt.png
           url: https://openwrt.ai/%e7%ba%a2%e7%b1%b3ax6s-%e8%a7%a3%e9%94%81ssh-%e5%88%b7openwrt%e6%95%99%e7%a8%8b/
           description: 红米ax6s 解锁SSH ,刷OpenWrt教程
+        - title: Reality自选域名方法
+          logo: https://v2ray-agent.com/upload/wk/photo_2023-03-18%2000.19.08-rall-ohwl.jpeg
+          url: https://www.v2ray-agent.com/archives/1689439383686
+          description:          
     - term: 博客
       links:
         - title: semyes
