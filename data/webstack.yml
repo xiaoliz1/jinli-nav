@@ -112,12 +112,12 @@
           description:  夏威夷家宽                  
         - title: 学长网络
           logo: xuezhang.ico
-          url: https://xuezhangvps.shop/clientarea.php?action=services
+          url: https://app.vmiss.com/clientarea.php
           description:                       
-        - title: 阿里云
-          logo: 阿里云.jpg
+        - title: vmiss
+          logo: https://www.google.com/s2/favicons?domain=app.vmiss.com&sz=100
           url: https://www.aliyun.com/
-          description: 上云就上阿里云。
+          description: 
         - title: 腾讯云
           logo: 腾讯云.webp
           url: https://cloud.tencent.com/
