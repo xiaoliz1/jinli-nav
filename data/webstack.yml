@@ -152,6 +152,10 @@
           logo: cloudflare.png
           url: https://dash.cloudflare.com/
           description: 
+        - title: ai反代
+          logo: ai.jpg
+          url: https://ai.996521.xyz/management.html#/
+          description:           
         - title: Javbus
           logo: javbus.png
           url: https://www.javbus.com/
