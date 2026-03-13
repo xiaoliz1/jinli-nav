@@ -37,11 +37,11 @@
       description: 图床
     - title: 订阅转换
       logo: sublink-worker.svg
-      url: https://img.996521.xyz/
-      description: 订阅转换
-    - title: Sub Store
-      logo: https://ns.996521.xyz/favicon.svg
       url: https://ns.996521.xyz/subs
+      description: 订阅转换
+    - title: sublink-worker
+      logo: https://sublink-worker.996521.xyz/favicon.ico
+      url: https://sublink-worker.996521.xyz/
       description: 订阅转换
 
 - taxonomy: 悠闲娱乐
