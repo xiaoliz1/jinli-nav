@@ -169,7 +169,7 @@
           url: https://zh-hans.tld-list.com/
           description:                              
         - title: Greasy Fork
-          logo: ITDog.png
+          logo: https://greasyfork.org/vite/assets/blacklogo16-DftkYuVe.png
           url: https://greasyfork.org/zh-CN/
           description:         
         - title: faviconextractor
