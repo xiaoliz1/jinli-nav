@@ -5,19 +5,19 @@
   links: 
     - title: NAS
       logo: NAS.png
-      url: http://192.168.2.235:5000
+      url: http://192.168.5.6:5000
       description: 群晖。
     - title: Qbittorrent
       logo: qbittorrent.png
-      url: http://192.168.2.235:8989
+      url: http://192.168.5.6:8989
       description:     
     - title: Transmission
       logo: transmission.png
-      url: http://192.168.2.235:9091
+      url: http://192.168.5.6:9091
       description: 
     - title: Emby
       logo: emby.png
-      url: http://192.168.2.235:8096
+      url: http://192.168.5.6:8096
       description:           
     - title: Openlist多网盘统一管理
       logo: openlist.svg
