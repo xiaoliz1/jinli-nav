@@ -188,10 +188,10 @@
           logo: favicon-hellowindows.cn
           url: https://hellowindows.cn/
           description: windows系统下载 
-        - title: 取文件
-          logo: favicon-www.google.com.png
-          url: https://www.quwenjian.com/home
-          description: 文件传递                      
+        - title: 镜像下载
+          logo: https://www.google.com/s2/favicons?domain=next.itellyou.cn&sz=100
+          url: https://next.itellyou.cn/
+          description: 镜像下载                     
     - term: PT下载
       links:
         - title: M-Team
