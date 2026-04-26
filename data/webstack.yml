@@ -101,7 +101,12 @@
         - title: RackNerd
           logo: racknerd.jpg
           url: https://www.racknerd.com/
-          description:      
+          description:  
+        - title: rfchost
+          logo: github.png
+          url: https://www.racknerd.com/
+          description: 
+
         - title: wap.cc
           logo: wap.ico
           url: https://wap.ac/
@@ -148,6 +153,10 @@
           logo: github.png
           url: http://nat.qq.pw:21242/Tz3YXB4142gdY8fqqz/xui/inbounds
           description: 每月11日续费  
+        - title: 西瓜瓜
+          logo: github.png
+          url: https://lqw.937390.xyz:60000/lqw
+          description: 每月16日续费 
         - title: Cloudflare
           logo: cloudflare.png
           url: https://dash.cloudflare.com/
