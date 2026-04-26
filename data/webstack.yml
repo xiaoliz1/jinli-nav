@@ -136,6 +136,10 @@
           description: VPS 测评              
     - term: 在线工具
       links:
+        - title: 探针
+          logo: https://tz.996521.xyz/favicon.ico
+          url: https://tz.996521.xyz/
+          description:     
         - title: Wallos-服务器订阅
           logo: wallos.png
           url: https://wallos.996521.xyz/subscriptions.php
