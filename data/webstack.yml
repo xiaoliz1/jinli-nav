@@ -7,13 +7,6 @@
       logo: NAS.png
       url: http://192.168.5.6:5000
       description: 群晖。
-    - title: PVE
-      logo: https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico
-      url: 192.168.5.107:8006
-      description:   
-    - title: 探针
-      logo: https://icons.duckduckgo.com/ip3/tz.996521.xyz.ico
-      url: https://tz.996521.xyz/
       description:   
     - title: Qbittorrent
       logo: qbittorrent.png
@@ -51,7 +44,18 @@
       logo: https://sublink-worker.996521.xyz/favicon.ico
       url: https://sublink-worker.996521.xyz/
       description: 订阅转换
-
+    - title: PVE
+      logo: https://icons.duckduckgo.com/ip3/pve.proxmox.com.ico
+      url: http://192.168.5.107:8006
+      description:   
+    - title: 探针
+      logo: https://icons.duckduckgo.com/ip3/tz.996521.xyz.ico
+      url: https://tz.996521.xyz/
+      description: 
+    - title: 旁路由
+      logo: https://firmware-selector.openwrt.org/favicon.ico
+      url: http://192.168.5.112
+      description: 
 - taxonomy: 悠闲娱乐
   icon: fas fa-film fa-lg
   list:
